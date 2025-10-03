@@ -1,4 +1,4 @@
-const sheetURL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQv.../pub?output=csv'; // Replace with your CSV export link
+const sheetURL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQv.../pub?output=csv';
 
 let questions = [];
 
